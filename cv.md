@@ -13,6 +13,7 @@ My name is Abdunnur Ashim. I am from Karaganda (Kazakhstan). I would like to bec
 #### Skills and Proficiency
 
 #### Courses
+* htmlacademy.ru - learned html/css basics. Building semantic web pages.
 
 #### Languages
 * Kazakh
