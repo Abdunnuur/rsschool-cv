@@ -1,2 +1,3 @@
 # rsschool-cv
-This is README file.
+
+[My CV](https://Abdunnuur.github.io/rsschool-cv/cv)
