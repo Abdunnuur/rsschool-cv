@@ -2,12 +2,13 @@
 
 ### Junior Frontend Developer
 
-#### Contact information:
-Phone:
-Email:
-Telegram:
+#### Contact information
+* **Phone**: 87086487487
+* **Email**: ashim.abdunnur05@gmail.com
+* **Telegram**: @abdunnur_ashim
 
-#### About myself
+#### About myself 
+
 
 #### Skills and Proficiency
 
